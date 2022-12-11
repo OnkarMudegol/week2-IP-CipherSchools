@@ -1,0 +1,13 @@
+/* inline > id > class > element */
+h1{
+    color: green;
+}
+.h1{
+    color: red;
+}
+/* #h1id{
+    color: purple;
+} */
+.heading{
+    color: grey;
+}
