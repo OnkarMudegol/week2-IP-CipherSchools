@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-red{
+    color: rgb(185, 12, 12);
+}
+.text-green{
+    color: greenyellow;
+}
+.bg-cream{
+    background-color: rgb(241, 239, 78);
+}
+.bg-gold{
+    background-color: gold;
+}
