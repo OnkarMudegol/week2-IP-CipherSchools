@@ -1,0 +1,13 @@
+div#container ul.my-songs li{
+    color: red;
+    background-color: aqua;
+}
+/* how to calulate specificity */
+/* _,_,_,_ */
+
+
+div#container ul.my-songs li.favourite{
+    color: greenyellow;
+    background-color: maroon;
+}
+
